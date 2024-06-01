@@ -1,0 +1,10 @@
+{
+  "references": [
+    {
+      "title": "Farama Foundation's Gymnasium",
+      "url": "https://gymnasium.farama.org",
+      "year": null
+    }
+  ],
+  "tags": ["Wrapper Library", "Utilities", "Julia", "Reinforcement Learning"]
+}
