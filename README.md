@@ -23,7 +23,7 @@ To use this module in your project, simply include the `GymnasiumWrapper.jl` fil
 
 ```julia
 include("Gymnasium.jl")
-using .Gymnasium
+using .GymnasiumWrapper
 ```
 
 or
