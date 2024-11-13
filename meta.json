@@ -1,4 +1,5 @@
 {
+  "description": "Julia wrapper library for the OpenAI Gym",
   "status": "DONE",
   "references": [
     {
