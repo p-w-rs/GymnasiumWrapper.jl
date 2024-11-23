@@ -32,9 +32,7 @@ Install with Pkg:
 
 ```julia
 using Pkg
-Pkg.add(url="https://github.com/p-w-rs/GymnasiumWrapper.jl")
-
-using GymnasiumWrapper
+Pkg.add(GymnasiumWrapper")
 ```
 
 ## Usage
