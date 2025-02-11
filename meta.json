@@ -8,10 +8,5 @@
       "year": null
     }
   ],
-  "tags": [
-    "Wrapper Library",
-    "Utility Library",
-    "Julia",
-    "Reinforcement Learning"
-  ]
+  "tags": ["Package", "Julia", "Reinforcement Learning"]
 }
